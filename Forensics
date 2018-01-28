@@ -1,0 +1,11 @@
+Volatil I (75pts)
+
+Alguien tenia claves en un fichero de texto pero no le dio a guardar.
+
+https://drive.google.com/open?id=1atYLiCl86RN1kwQLY854DOoIReb7bPAx
+
+sha1 632a21efc8a40e0e6138c64f17f90bbf347fe30f md5 23b978c8aaab840e85a004adc2cf3e1a
+
+Solución
+
+Para este tipo de reto primero nos tenemos que dar cuenta que se trata de un extracto de la memoria RAM, por lo que de primeras nos viene  a la cabeza usar volatility.
